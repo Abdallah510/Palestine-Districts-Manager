@@ -1,0 +1,13 @@
+abood district,population = 50000 
+and,10000
+you,40000
+Hebron district,population = 140000 
+Halhul,40000
+Dura,100000
+ion district,population = 210000 
+gg,10000
+tt,200000
+Jenin district,population = 130000 
+Jaba,7000
+Yabad,31000
+Jenin,92000
